@@ -33,4 +33,11 @@ O projeto **Simple Login Page** é uma aplicação web desenvolvida por **João 
 
 O projeto **Simple Page Login** é útil para o treino e aprendizado das boas práticas de desenvolvimento web responsivo com HTML5 e CSS3, bem como funcionalidades trazidas pelo JavaScript.
 
+---
+
+## Colaboradores do Projeto
+
+João Alfredo Alves | Samira Gabriely
+:------: | :------:
+[![Foto do Integrante João Alfredo](https://avatars.githubusercontent.com/u/68473607?v=4)](https://github.com/JoaoAlfredoAlves) *Idealizador e Desenvolvedor* | [![Foto da Integrante Samira](https://avatars.githubusercontent.com/u/87048683?v=4)](https://github.com/DevSamira) *Idealizadora e Desenvolvedora*
 </div>
