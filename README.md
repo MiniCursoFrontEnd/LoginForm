@@ -2,7 +2,7 @@
 <h2 align="center">Projeto Final do Minicurso de Desenvolvimento Web - Sertão Comp III</h2>
 
 <div align="center">
- <a href="https://joaoalfredoalves.github.io/codelandiaDesafio1/" display="block">
+ <a href="https://minicursofrontend.github.io/LoginForm/" display="block">
   <img src="https://i.imgur.com/THpZZNR.png" alt="Imagem Retirada do Site Mostrando a Página"/>
  </a>
 </div>
