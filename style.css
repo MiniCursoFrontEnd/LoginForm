@@ -6,9 +6,9 @@
 	/* Cores */
 	--ciano: #32dfdf;
 	--ciano-claro: #6beded;
-	--roxo-claro: #3a2641;
-	--roxo-escuro: #2e1c32;
-	--cinza-escuro: #28282891;
+	--azul-cinza-escuro: #1b2430;
+	--azul-cinza: #30475e;
+	--cinza-escuro: #282828;
 	--cinza-claro: #f0ffffde;
 	--branco-placeholder: #f0ffff94;
 }
@@ -26,7 +26,7 @@ body * {
 .mainLogin {
 	width: 100vw;
 	height: 100vh;
-	background: var(--roxo-claro);
+	background: var(--azul-cinza-escuro);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -65,9 +65,13 @@ body * {
 	align-items: center;
 	flex-direction: column;
 	padding: 30px 35px;
-	background: var(--roxo-escuro);
+	background: var(--azul-cinza);
 	border-radius: 20px;
-	box-shadow: 0px 10px 40px var(--cinza-escuro);
+	box-shadow: 0px 0px 6px var(--azul-cinza);
+}
+
+.cardLogin > img {
+	width: 15rem;
 }
 
 .cardLogin > h1 {
@@ -90,10 +94,10 @@ body * {
 	border: none;
 	border-radius: 10px;
 	padding: 15px;
-	background: var(--roxo-claro);
+	background: #1b243067;
 	color: var(--cinza-claro);
 	font-size: 12pt;
-	box-shadow: 0px 10px 40px var(--cinza-escuro);
+	box-shadow: 0px 6px 0px var(--azul-cinza-escuro);
 	outline: none;
 	box-sizing: border-box;
 }
@@ -118,7 +122,7 @@ body * {
 	text-transform: uppercase;
 	font-weight: 800;
 	letter-spacing: 3px;
-	color: var(--roxo-escuro);
+	color: var(--azul-cinza);
 	background: var(--ciano);
 	cursor: pointer;
 	box-shadow: 0px 10px 40px -12px var(--ciano);
@@ -132,7 +136,17 @@ body * {
 /* Responsividade */
 @media only screen and (max-width: 950px) {
 	.cardLogin {
-		width: 85%;
+		width: 80%;
+	}
+	.leftLogin {
+		margin: 1rem;
+	}
+	.leftLogin > h1 {
+		font-size: 20pt;
+		text-align: center;
+	}
+	.leftLogin > img {
+		width: 90%;
 	}
 }
 
