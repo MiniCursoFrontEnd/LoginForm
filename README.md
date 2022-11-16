@@ -3,7 +3,7 @@
 
 <div align="center">
  <a href="https://minicursofrontend.github.io/LoginForm/" display="block">
-  <img src="https://i.imgur.com/THpZZNR.png" alt="Imagem Retirada do Site Mostrando a Página"/>
+  <img src="https://i.imgur.com/nv0BmZW.jpg" alt="Imagem Retirada do Site Mostrando a Página"/>
  </a>
 </div>
  
